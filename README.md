@@ -1,6 +1,7 @@
 # Quest system using BP Node
-## Developed with Unreal Engine 4
-## Each quest is a separate Actor, where you gradually build the logic of the objective using standard Blueprint Nodes
+### Developed with Unreal Engine 4
+### Each quest is a separate Actor, where you gradually build the logic of the objective using standard Blueprint Nodes
+### The project is not complete, it exists as a demonstration
 
 ### Quest 1
 ![demo img 1](https://github.com/paveldrobny/UE4_QuestSystem_BP/blob/master/ue4_questsystem_1.png?raw=true)
